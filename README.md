@@ -1,5 +1,4 @@
-# Uncertainty-Aware Disease Risk Prediction  
-### Under Noisy and Outlier-Rich Medical Data
+# Uncertainty-Aware Disease Risk Prediction Under Noisy and Outlier-Rich Medical Data
 
 ## Overview
 This project focuses on building robust deep learning models for disease risk prediction under noisy and outlier-rich medical data conditions. Beyond predictive performance, the primary objective is to evaluate model reliability and confidence using uncertainty estimation techniques.
